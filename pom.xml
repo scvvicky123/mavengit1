@@ -10,7 +10,7 @@
     <name>java-project2</name> 
     <url>http://maven.apache.org</url>
 
-    <!-- Project dependencies -->
+    <!-- Project dependencies --> 
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
